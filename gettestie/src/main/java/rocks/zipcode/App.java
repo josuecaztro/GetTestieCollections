@@ -15,12 +15,6 @@ public final class App {
         System.out.println("Hello World!");
     }
 
-//DON'T OVERWORK YOURSELF. ONLY DO 1-2 METHODS PER COLLECTION AS THE READ ME IMPLIES
-    /*
-    11.priorityQueue
-    12. comparable
-     */
-
     //ALL COMPLETED GO DOWN HERE:
     public void TestSet(){}
     public void testArrayList(){}
@@ -33,6 +27,7 @@ public final class App {
     public void TestTreeSet(){}
     public void TestIterator(){}
     public void TestPriorityQueue(){}
+    public void TestComparable(){}
 
 
 
